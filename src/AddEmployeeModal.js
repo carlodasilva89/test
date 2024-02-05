@@ -75,7 +75,7 @@ class AddEmployeeModal extends Component {
                     <TextInput
                         style={styles.textBox}
                         onChangeText={(text) => this.handleChange(text, "name")}
-                        placeholder="Full Name" />
+                        placeholder="Full  Name"/>
 
                     <TextInput
                         keyboardType="numeric"
