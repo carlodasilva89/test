@@ -70,7 +70,7 @@ class AddEmployeeModal extends Component {
                 animationType="slide"
             >
                 <View style={styles.container}>
-                    <Text style={styles.title}>Add New Employee</Text>
+                    <Text style={styles.title}>Add- New Employee</Text>
 
                     <TextInput
                         style={styles.textBox}
