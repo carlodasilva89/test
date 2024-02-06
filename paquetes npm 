@@ -1,0 +1,18 @@
+npm install --save react-native-reanimated
+npm install --save twrnc
+npm install --save metro-react-native-babel-preset --save-dev
+npm install --save babel-plugin-module-resolver
+npm install --save @reduxjs/toolkit
+npm install --save @react-navigation/stack
+npm install --save react-native-screens react-native-safe-area-context
+npm install --save react-native-vector-icons
+npm install --save axios
+npm install --save react-redux
+npm install --save @react-native-async-storage/async-storage
+npm install --save @react-navigation/native-stack
+npm install --save
+npm install --save
+ npm install --save metro-react-native-babel-preset
+ npm install --save redux-persist
+
+ 
