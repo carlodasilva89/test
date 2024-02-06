@@ -79,7 +79,7 @@ const Register = (props) => {
         } catch (error) {
             setRegisterSuccess(false)
             // Manejo de errores
-            console.error('Error en el registro:', error.response ? error.response.data : error.message);
+            console.error(error);
 
             setModalInfo({
                 type: 'error',
